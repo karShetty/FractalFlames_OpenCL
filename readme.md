@@ -1,0 +1,1 @@
+Implenetation of flam3 algorithm using OpenCL
